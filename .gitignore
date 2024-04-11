@@ -265,5 +265,7 @@ fabric.properties
 Procfile.*
 
 # vim files 
-~
-swp 
+# Ignore vim files:
+*~
+*.swp
+*.swo
