@@ -263,3 +263,7 @@ fabric.properties
 
 #proc files 
 Procfile.*
+
+# vim files 
+~
+swp 
